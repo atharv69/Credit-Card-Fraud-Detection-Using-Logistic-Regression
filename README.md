@@ -1,4 +1,4 @@
-Financial Fraud Prevention : A Machine Learning- Based Risk Analysis System
+Financial Fraud Prevention : A Machine Learning- Based Risk Analysis System.
 
 Credit card fraud is a critical financial issue that requires effective detection mechanisms to minimize losses. This project utilizes machine learning techniques, specifically logistic regression, to classify fraudulent and legitimate transactions using the **Credit Card Fraud Detection** dataset.  
 
